@@ -52,3 +52,7 @@ O MPU-6050 integra um acelerômetro e um giroscópio MEMS em um único chip. Com
 ## Imagem das Conexões
 
 ![Conexão dos componentes](ESP32S_Acelerometro_Giroscopio_esquema.jpg)
+
+## Foto do Projeto
+
+![Foto do Projeto](ESP32S_Acelerometro_Giroscopio.jpg)
